@@ -1,4 +1,4 @@
-"""Main module for index_analyzer"""
+"""Main module for yo_indexer"""
 import csv
 import os
 from pkg_resources import resource_listdir
@@ -6,7 +6,7 @@ from pkg_resources import resource_listdir
 def examine_csv():
     """The main function"""
     # Gets a list of all of the files in the csv_files dir
-    csv_dir = resource_listdir('index_analyzer.csv_files', '')
+    csv_dir = resource_listdir('yo_indexer.csv_files', '')
 
     # Loop through them
     for file_name in csv_dir:

@@ -29,7 +29,7 @@ A step by step series of examples that tell you have to get a development env ru
 Say what the step will be
 
 1. Clone the repository
-2. `cd index_analyzer`
+2. `cd yo-indexer`
 3. Run the following:
 
 ``` bash
@@ -38,7 +38,7 @@ source env/bin/activate &&
 pip install -e .
 ```
 
-4. Run with `python index_analyzer`
+4. Run with `python yo_indexer`
 
 ## Development
 
@@ -49,9 +49,9 @@ In order to access the env after the terminal has closed enter `source env/bin/a
 If you would like to leave the virtual environmen then enter `deactivate`
 
 Simple change the code and run
-`python index_analyzer`
+`python yo_indexer`
 
-`pip install -e` allows for the code changes to automatically be reflected withing the virtualenv environment. 
+`pip install -e` allows for the code changes to automatically be reflected withing the virtualenv environment.
 
 ## Running the tests
 
