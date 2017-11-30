@@ -10,8 +10,16 @@ These instructions will get you a copy of the project up and running on your loc
 
 What things you need to install the software and how to install them
 
+#### pip
+
+``` bash
+sudo apt-get install python3-pip
 ```
-No Prerequisites
+
+#### virtualenv
+
+``` bash
+sudo pip install virtualenv
 ```
 
 ### Installing
@@ -20,21 +28,38 @@ A step by step series of examples that tell you have to get a development env ru
 
 Say what the step will be
 
+1. Clone the repository
+2. `cd index_analyzer`
+3. Run the following:
+
+``` bash
+virtualenv env &&
+source env/bin/activate &&
+pip install -e .
 ```
-No steps
-```
+
+4. Run with `python index_analyzer`
+
+## Development
+
+All code installation and running should be done in the isolated virtualenv environment.
+
+In order to access the env after the terminal has closed enter `source env/bin/activate`
+
+If you would like to leave the virtual environmen then enter `deactivate`
+
+Simple change the code and run
+`python index_analyzer`
+
+`pip install -e` allows for the code changes to automatically be reflected withing the virtualenv environment. 
 
 ## Running the tests
 
-Explain how to run the automated tests for this system
+Currently no tests
 
 ### Break down into end to end tests
 
-Explain what these tests test and why
-
-```
-Give an example
-```
+N/A
 
 ## Coding Style
 
@@ -46,7 +71,7 @@ Add additional notes about how to deploy this on a live system
 
 ## Built With
 
-Nothing
+Python3
 
 ## Contributing
 
