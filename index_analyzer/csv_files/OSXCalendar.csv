@@ -1,0 +1,66 @@
+OsX Calendar:,
+File:,
+- New Event (?N, creates a new calendar event)
+- New Calendar (??N, creates a new calendar to add events to)
+- New Calendar Subscription (??S, add a new calendar to your application)
+- Import? (import event file from computer),
+- Export,
+o Export? (save calendar to computer),
+o Calendar Archive? (save calendar events and reminders to computer),
+"- Close (?W; close the window, but keep app open)",
+"- Print (?P; print calendar events by day, week, month, or list)",
+Edit:,
+- Undo (?Z, undo typing)
+- Redo (??Z, redo typing)
+- Cut (?X, remove selected text/event and save it to clipboard)
+- Copy (?C, copy selected text/event and save it to clipboard)
+- Paste (?V, paste text/event saved to clipboard)
+- Delete (Remove selected text/event),
+- Select All (?A, select all text/events)
+- Duplicate (?D, duplicate event so that it is repeated one time)
+- Edit Event (?E, edit selected event)
+- Get Info (?I, display event details in new popup window)
+- Show Inspector (??I, display event details in new popup window)
+- Publish? (Publish event(s)),
+- Stop Publishing? (Stop publishing event(s)),
+- Send Publication Email? (Send publication email to recipients),
+- Find (?F, search for an event)
+- Show Spelling & Grammar (??:, popup window used to help find spelling and grammatical errors)
+- Start Dictation? (fn fn, allows for the application to speak to the user)
+- Emoji & Symbols (^?Space, add emojis and symbols to keyboard)
+View:,
+- Show Tab Bar/Hide Tab Bar (options to show/hide calendar tab bar that is below top bar),
+- Show All Tabs (??\, show all calendar window tabs)
+- By Day (?1, change calendar view to view events by day)
+- By Week (?2, change calendar view to view events by week)
+- By Month (?3, change calendar view to view events by month)
+- By Year (?4, change calendar view to view events by year)
+- Next (??, go to the next time period)
+- Previous (??, go to the previous time period)
+- Go to Today (?T, go to view today?s events)
+- Go to Date? (??T, go to view events for a specified date)
+- Make Text Bigger (?+, make text on screen bigger)
+- Make Text Smaller (?-, make text on screen smaller)
+- Show Calendar List/Hide Calendar List (show/hide left panel containing list of calendars),
+- Show Notifications (show notifications for events),
+- Show All-Day Events (show all-day events in calendar),
+- Show Declined Events (show events that user was invited to but declined attending),
+- Show Travel Time (show travel time to events),
+- Refresh Calendars (?R, reload calendars to reflect potential updates)
+- Enter Full Screen (^?F, view calendar in full screen mode)
+Window:,
+- Minimize (?M, minimize application window)
+- Zoom (make window bigger or smaller),
+- Show Previous Tab (^??, show previous calendar tab)
+- Show Next Tab (^?, show next calendar tab)
+- Move Tab to New Window (move current tab to new application window),
+- Merge All Windows (combine all application windows),
+- Calendar (?0, show calendar in window)
+"- Address Panel (show list of addresses for people, locations, resources, and groups in new popup window)",
+- Contacts (open OS X Contacts desktop application),
+- Availability Panel (show availability of other users that primary user is connected with),
+- Bring All to Front (bring all application windows to the front of the screen),
+Help:,
+- Search (search for menu items and help topics),
+- Calendar Help (open help topics in new popup window),
+- Keyboard Shortcuts (open list of keyboard shortcuts in new popup window),

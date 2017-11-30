@@ -1,0 +1,185 @@
+1,Home
+2,Mediogram (buton)
+2,Location
+2,Swipe Left/Right
+1,Maps
+2,Air Temperature
+3,Air Temperature
+3,Today's Maximum Air Temperature
+3,Today's Maximum Air Temperature
+3,Today's Maximum and Minimum Air Temperatures
+3,3 Hour Air Temperature Change
+3,24 Hour Temperature Change
+3,Windchill/Heat Index
+3,Today's Maximum Windchill/Heat Index
+3,Wet Bulb Globe Temperature Risk
+3,Today's Maximum Wet Bulb Globe Temperature Risk
+3,9-meter Air Temperature
+3,Inversion Conditions
+3,Days with Maximum Air Temperature Above 100F
+3,Days with Maximum Air Temperature Above 90F
+3,Days with Maximum Air Temperature Belwo 32F
+3,Days with Minimum Air Temperature Below 32F
+3,Consecutive Days with Maximum Air Temperature Below Freezing
+3,Consecutive Days with Minimum Air Temperature Below Freezing
+3,Consecutive Hours Below Freezing
+3,Hours Below Freezing in the last 48 Hours
+3,Hours Below Freezing in the Last Week
+3,Yesterday's Maximum Air Temperatures
+3,Yesterday's Minimum Air Temperature
+3,Yesterday's Maximum & Minimum Air Temperatures
+3,Maximum/Minimum Air Temperature Difference
+3,Yesterday's Maximum Windc Chill/Heat Index
+3,Yesterday's Minimum Wind Chill/Heat Index
+3,Yesterday's Maximum Wet Bulb Globe Temperature Risk
+3,(National) Air Temperature
+3,(National) Wind Chill/Heat Index
+2,Rainfall
+3,Today's Rainfal
+3,Consecutive Days with Less than 0.10 inches Rainfall
+3,Consecutive Days with Less than 0.25 inches Rainfall
+3,1-hour Rainfall Accumulation
+3,3-hour Rainfall Accumulation
+3,6-hour Rainfall Accumulation
+3,12-hour Rainfall Accumulation
+3,24-hour Rainfall Accumulation
+3,2-day Rainfall Accumulation
+3,3-day Rainfall Accumulation
+3,4-day Rainfall Accumulation
+3,5-day Rainfall Accumulation
+3,7-day Rainfall Accumulation
+3,10-day Rainfall Accumulation
+3,14-day Rainfall Accumulation
+3,30-day Rainfall Accumulation
+3,60-day Rainfall Accumulation
+3,90-day Rainfall Accumulation
+3,120-day Rainfall Accumulation
+3,180-day Rainfall Accumulation
+3,365-day Rainfall Accumulation
+2,Wind
+3,"Wind Speed & Gusts, with Arrows"
+3,"Wind Speed & Gusts, with Barbs"
+3,Wind Speed and Direction
+3,Wind Gusts
+3,1-hour Maximum Wind Gusts
+3,Today's Maximum Wind Gusts
+3,Yesterday's Maximum Wind Gusts
+3,Mass Convergence
+3,2-meter Wind Speeds
+3,Dispersion Conditions and Winds
+2,Dewpoint & Humidity
+3,Relative Humidity
+3,3-hour Humidity Change
+3,24-hour Humidity Change
+3,Dewpoint Temperature
+3,1-hour Dewpoint Temperature Change
+3,3-hour Dewpoint Temperature Change
+3,Dewpoint Depression
+3,24-hour Dewpoint Temperature Change
+3,Wet-Bulb Temperature
+3,Natural Wet-Bulb Temperature
+3,Theta-E
+3,Moisture Convergence
+3,Relative Humidity and Winds
+3,Dewpoint Temperature and Winds
+3,(National) Dewpoint Temperature
+3,(National) Relative Humidity)
+2,Soil Moisture/Temperature
+3,1-day Average 4-inch Plant Available Water
+3,1-day Average 16-inch Plant Available Water
+3,1-day Average 32-inch Plant Available Water
+3,1-day Average 4-inch Percent Plant Available Water
+3,1-day Average 16-inch Percent Plant Available Water
+3,1-day Average 32-inch Percent Plant Available Water
+3,1-day Average 2-inch Fractional Water Index
+3,1-day Average 4-inch Fractional Water Index
+3,1-day Average 10-inch Fractional Water Index
+3,1-day Average 24-inch Fractional Water Index
+3,7-day Average 10-inch Fractional Water Index Change
+3,2-inch Soil Temperature
+3,4-inch Soil Temperature
+3,4-inch Bare Soil Temperature
+3,10-inch Soil Temperature
+3,24-inch Soil Temperature
+3,1-day Average 2-inch Soil Temperature
+3,1-day Average 4-inch Soil Temperature
+3,1-day Average 4-inch Bare Soil Temperature
+3,1-day Average 10-inch Soil Temperature
+3,1-day Average 24-inch Soil Temperature
+3,3-day Average 2-inch Soil Temperature
+3,3-day Average 4-inch Soil Temperature
+3,3-day Average 4-inch Bare Soil Temperature
+3,3-day Average 10-inch Soil Temperature
+3,3-day Average 24-inch Soil Temperature
+2,Pressure
+3,Sea-Level Pressure (inches of Mercury)
+3,3-hour Sea-Level Pressure (inches of Mercury)
+3,Sea-Level Pressure (millibars)
+3,3-hour Sea-Level Pressure Change (millibars)
+2,Station Plots
+3,Current Conditions
+3,Current Fire Weather Conditions
+2,Radar
+3,Oklahoma Radar
+3,National Radar
+2,Solar Radiation & Satelite
+3,Solar Radiation
+3,Total Daily Solar Radiation (megajoules per square meter)
+3,Total Daily Solar Radiation (kilowatt-hours per square meter)
+3,Oklahoma Visible Satellite
+3,Oklahoma Water Vapor Satellite
+3,Oklahoma Infrared Satellite
+3,Regional Visible Satellite
+3,Regional Water Vapor Satellite
+3,Regional IR Satellite
+3,200 mb Plot
+3,500 mb Plot
+3,850 mb Plot
+3,Dodge City KS Sounding
+3,Norman OK Sounding
+3,Little Rock AR Sounding
+3,Amarillo TX Sounding
+3,Fort Worth Sounding
+3,Springfield MO Sounding
+2,Fire Weather
+3,Day 1 Fire Outlook
+3,Day 2 Fire Outlook
+3,Burning Index
+3,1-hr Dead Fuel Moisture
+3,10-hr Dead Fuel Moisture
+3,Keetch-Byram Drought Index (KBDI)
+3,Oklahoma Fire Advisories
+2,NWS Graphics/Advisories
+3,Day 1 Convective Storm Outlook
+3,Day 2 Convective Storm Outlook
+3,Day 3 Convective Storm Outlook
+3,Day 1 Tornado Outlook
+3,Day 1 Hail Outlook
+3,Day 1 Wind Outlook
+3,NWS Day 1 Precipitation Forecast
+3,NWS Day 2 Precipitation Forecast
+3,NWS Day 3 Precipitation Forecast
+3,Oklahoma Severe Weather Advisories
+3,Oklahoma Flood Advisories
+3,Oklahoma Fire Advisories
+3,Oklahoma High Wind Advisories
+3,Oklahoma Heat Advisories
+3,Oklahoma Winter Storm Advisories
+3,Oklahoma Frost-Freeze Advisories
+3,Oklahoma Ice Advisories
+3,Oklahoma Visibility Advisories
+2,Agricultural Advisories
+3,Cattle Comfort Conditions
+3,First Hollow Stem Early Varieties Current Conditions Map
+3,First Hollow Stem Middle Varieties Current Conditions Map
+3,First Hollow Stem Late Varieties Current Conditions Map
+3,Peanut Leaf Spot Advisor
+3,Pecan Scab
+1,Radar
+1,Advisories
+1,More
+2,English Units
+2,Metric Units
+2,Ticker
+2,Contact
+2,About and Terms of Use

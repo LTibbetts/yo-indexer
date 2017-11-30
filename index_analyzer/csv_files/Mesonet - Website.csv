@@ -1,0 +1,299 @@
+Level,Item (WEBSITE)
+1,Weather
+2,Local Weather
+2,Radar
+3,Change Mesonet Site
+3,Site Information
+3,Share/Tweet
+2,Air Temperature
+2,Rainfall
+2,Wind
+2,Dewpoint & Humidity
+2,Pressure
+1,Climate
+2,Oklahoma Climatological Survey Website
+1,Forecast
+2,Local and Regional
+3,Change Mesonet Site
+3,Share/Tweet
+2,NWS Forecast Temperature
+2,NWS Forecast Precipitation
+2,Long Range
+2,Fire Weather
+2,Severe Weather
+2,Winter Weather
+1,K-12 Education
+2,Weather Explorations
+3,Bellringers
+3,Climate 101 Workshops
+3,Glossary
+3,Overview of Meteoroloty
+3,Study Tools
+3,Weather Events
+2,Classroom Materials
+3,Career Help
+3,Scientific Mentors
+3,Scouting
+3,Speaker Service
+3,Summer Camp
+1,Agriculture
+2,Crop
+3,Wheat
+3,Grass Hay
+3,Alfalfa
+3,Corn
+3,Cotton
+3,Peanut
+3,Sorghum
+3,Soybean
+2,Horticulture
+3,Pecan
+3,Peach
+3,Grape
+3,Watermelon
+3,Tomato
+3,Sweet Corn
+3,Garden Vegetable
+3,Turfgrass
+2,Livestock
+3,Cattle
+3,Dairy
+3,Poultry
+3,Swine
+2,Range/Forest
+3,Rangeland
+3,Forrestry
+3,Fire Danger
+2,Learn More
+2,AgBlog
+2,Farm Monitor
+2,Cattle Comfort Advisor
+3,Cattle Comfort Advisor
+3,First Hollow Stem Advisor
+3,OSU Extension Animal Science
+3,OSU Beef Cattle Publications
+3,USDA Feedstuff Report
+3,OK Ag Dept. In-State Hay List (PDF)
+3,USDA OK/TX/NM Cattle Report
+3,USDA Cattle and Beef Summary (PDF)
+3,Noble Foundation Ag Tools
+3,OK Cattlemens Assoc
+2,Drift Risk Advisor
+2,Degree Day Heat Units
+2,Integration Planner
+2,Drought
+3,Oklahoma Drought Monitor Map
+3,US Drought Monitor Map
+3,Palmer Drought Index
+3,Precip Needed - Palmer Drought Index
+3,North American Drought Monitor
+2,Disperson
+3,Dispersion Conditions
+3,Dispersion Forecast Map
+3,Dispersion Forecast Table
+3,Past Dispersion Table
+3,Inversion Conditions
+3,Dispersion Conditions and Winds
+2,Evapotraspiration
+3,Short Crop (Etos) ET Map
+3,Tall Crop (Etrs) ET Map
+3,Seasonal Single Site ET Table
+3,Statewide Single Day ET Table
+1,Public Safety
+2,Contact OK-First
+2,Download Software
+2,News
+2,Surveys
+2,OK-First Participants
+3,Certified
+3,Assistant Certified
+3,Roster by Region
+3,Alumni
+2,OK-Fist Staff
+2,About OK-First
+3,Eligibility and How to Join
+3,Register as a New OK-Fist Member
+3,Participant Agreement
+3,Courses Offered
+3,Partners and Collaborators
+3,Program History
+3,Advisory Committee
+2,Learning Center
+2,Weather Briefing
+1,Fire Management
+2,News
+2,Contact and Product Information
+2,Additional Resources
+2,Oklahoma Burn Bans
+2,Recent Lightning Activity
+3,thunderstorm.vaisala.com
+2,3.9 Micro Infrared Satellite Map
+2,Fire Advisories and Outlooks
+2,Default Fuel Model Zoom Map
+2,Relative Greenness Zoom Map
+2,NWS Forecast Table (location)
+3,forecast-v3.weather.gov
+2,NWS Forecast Chart (location)
+3,forecast-v3.weather.gov
+2,Fire Prescription Planner
+3,Share/Tweet
+2,Past & Forecast Charts/Tables
+3,Share/Tweet
+2,Past & Forecast Animated Maps
+3,Share/Tweet
+2,Current Maps
+3,Fire Weather Maps
+3,Fire Danger Maps
+3,Satellite Maps
+2,Current Station Conditions
+3,Share/Tweet
+1,Past Data
+2,Data Request Form
+2,Mesonet Sites
+2,Data Descriptions
+2,Data Access & Pricing
+2,Past Data
+1,Home
+1,About  
+2,Terms of Use
+2,Data Access and Pricing
+2,Other Measurements
+2,Soil Temperature Measurements
+2,Moisture Measurements
+2,Wind Measurements
+2,Air Temperatuer and Related Measurements
+2,Instruments
+2,Site Location Information
+2,View Retired Sites
+2,Oklahoma Topographic Map
+2,Station Names and Climate Divisions
+2,Station Site ID Map
+2,Station Names Map
+2,Mesonet Sites
+2,Monthly Summaries
+2,MDF/MTS Files
+2,Long-Term Averages
+2,Daily Summaries
+2,Current Observations CSV
+2,Data Descriptions
+2,Safety
+2,Environment
+2,Education
+2,Benefits
+2,History of the Mesonet
+2,About the Mesonet
+1,Research
+2,Publications Statistics
+2,Reports
+2,Miscellaneous
+2,Theses and Dissertations
+2,Abstracts
+2,Proceedings and Preprints
+2,Book Chapters
+2,Books
+2,Journal Articles
+2,OKC Micronet
+2,OASIS
+2,Anemometer Anti-Icing
+2,Soil Temperature Variabilitiy
+2,Research Topics
+2,Research Team
+2,Research Partners
+2,For Researchers
+1,Programs
+2,Research
+2,Mesonet Mobile
+2,Wildland Fire Management 
+2,K-12 Education
+2,Agriculture
+2,Public Safety
+1,Contact
+2,Aboout the Mesonet
+2,History of the Mesonet
+2,Benefits
+2,Education
+2,Environment
+2,Safety
+2,Data Descriptions
+2,Current Observations CSV
+2,Daily Summaries
+2,Long-Term Averages
+2,MDF/MTS Files
+2,Monthly Summaries
+2,Mesonet Sites
+2,Station Names Map
+2,Station Site ID Map
+2,Station Names and Climate Divisions
+2,Oklahoma Topographic Map
+2,View Retired Sites
+2,Site Location Information
+2,Instruments
+2,Air Temperature and Related Measurements
+2,Wind Measurements
+2,Moisture Measurements
+2,Soil Temperature Measurements
+2,Other Measurements
+2,Data Access and Pricing
+2,Terms of Use
+1,Help
+2,Aboout the Mesonet
+2,History of the Mesonet
+2,Benefits
+2,Education
+2,Environment
+2,Safety
+2,Data Descriptions
+2,Current Observations CSV
+2,Daily Summaries
+2,Long-Term Averages
+2,MDF/MTS Files
+2,Monthly Summaries
+2,Mesonet Sites
+2,Station Names Map
+2,Station Site ID Map
+2,Station Names and Climate Divisions
+2,Oklahoma Topographic Map
+2,View Retired Sites
+2,Site Location Information
+2,Instruments
+2,Air Temperature and Related Measurements
+2,Wind Measurements
+2,Moisture Measurements
+2,Soil Temperature Measurements
+2,Other Measurements
+2,Data Access and Pricing
+2,Terms of Use
+1,Oklahoma Climatological Survey
+2,climate.ok.gov
+1,Mobile Site
+2,Local Weather
+2,Air Temperature  
+3,Air Temperature
+3,Today's Maximum Air Temperature
+3,Today's Minimum Air Temperature
+3,Today's Maximum and Minimum Air Temperature
+3,3-hour Air Temperature Change
+3,24-hour Air Temperature Change
+3,Wind Chil/ Heat Index
+3,Today's Maximum wind chill / heat Index
+3,Today's Minimum Wind Chill /Heat Index
+3,Wet Bulb Globe Temperature Risk
+2,Rainfall
+2,Wind
+2,Dewpoint and Humidity
+2,Soil Moisture/Temperature
+2,Pressure
+2,Station Plots
+2,Station Meteograms
+2,Radar
+2,Solar Radiation and Satellite
+2,Upper Air
+2,Fire Weather
+2,NWS Graphics/Advisories
+2,Agricultural Advisories
+3,Cattle Comfort Conditions
+3,First Hollow Stem Early Varieties Current Conditions Map
+3,First Hollow Stem Middle Varieties Current Conditions Map
+3,First Hollow Stem Late Varieties Current Condistions Map
+3,Peanut
+2,Weather Briefing (OK-First Participants Only)

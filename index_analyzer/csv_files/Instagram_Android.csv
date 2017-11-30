@@ -1,0 +1,552 @@
+Instagram - Android,
+,
+Home,Direct
+,Plus icon
+,
+Search,search bar
+,recommended images
+,videos you might like
+,
+Camera,videos you might like
+,photo
+,gallery
+,
+Heart,you
+,following
+,
+User,Photos of you
+,list view
+,tile view
+,edit your profile
+,options
+,discover people
+,
+User - options,log out
+,add account
+,clear search history
+,open source libraries
+,terms of service
+,privacy policy
+,blog
+,ads
+,report a problem
+,instagram help center
+,save videos after posting
+,save original photos
+,upload quality
+,comment moderation
+,cellular data use
+,push notifications
+,language
+,linked accounts
+,private account
+,blocked users
+,posts you've liked
+,two-factor authentication
+,change password
+,edit profile
+,story settings
+,find contacts
+,find facebook friends
+,invite friends
+,invite facebook friends
+,
+User - Discover people,Recommended
+,connect to contacts
+,connect to facebook
+,
+Home - + icon,Front/back camera toggle
+,flash toggle
+,take picture
+,back
+,
+Story settings,turn off message replies
+,allow message replies from people you follow
+,allow message replies from everyone
+,hide story from ...
+,
+Edit profile,gender
+,phone number
+,email
+,description
+,website
+,username
+,name
+,Photos of you
+,
+change password,reset password
+,current password
+,new password
+,new password again
+,
+two factor authentication,require security code
+,
+posts you've liked,likes
+,
+blocked users,blocked users
+,
+linked accounts,ameba
+,vkontakte
+,flicker
+,tumblr
+,swarm
+,twitter
+,facebook
+,
+notifications,live videos
+,support requests
+,view counts
+,product announcements
+,first posts and stories
+,reminders
+,photos of you
+,instagram direct
+,instagram direct requests
+,friends on instagram
+,accepted follow requests
+,new followers
+,likes and comments on photos of you
+,comments
+,likes
+,
+Cellular data use,default
+,use less data
+,
+Comment moderation,off
+,on
+,
+Upload quality,basic
+,normal
+,
+report a problem,report a problem
+,send feedback
+,report spam or abuse
+,
+Ads,Does instagram let advertisers use my photos or vidoes?
+,what can I do if I see an ad I don't like?
+,How does instagram decide which ads to show me?
+,Sponsored posts
+,
+Photo,Front/rear camera toggle
+,flash toggle
+,
+Picture taken/uploaded,Lux
+,Edit
+,Filter
+,
+Edit,Sharpen
+,TIlt shift
+,vignette
+,shadows
+,highlights
+,fade
+,color
+,saturation
+,warmnth
+,structure
+,contrast
+,brightness
+,adjust
+,
+Filter,Manage
+,nashville
+,hefe
+,inkwell
+,lo-fi
+,willow
+,sierra
+,x-pro ii
+,valencia
+,hudson
+,rise
+,mayfair
+,amaro
+,perpetua
+,aden
+,ludwig
+,crema
+,slumber
+,juno
+,lark
+,moon
+,gingham
+,clarendon
+,normal
+,
+Share photo,share on swarm
+,share on flickr
+,share on tumblr
+,share on twitter
+,share on facebook
+,tag people
+,share
+,write caption
+,followers/direct
+,
+Instagram Web,
+,
+Top Bar,(Person) Profile
+,(Heart) Notifications
+,(Compass) Explore
+,Search Bar
+,Instagram
+,
+Home Page,Feed
+,Add Profile Photo
+,
+Explore,Explore Feed
+,Profiles
+,Discover People - See All
+,
+Notifications,Notifications List
+,
+Profile Page,Following
+,Followers
+,Posts
+,Edit Profile
+,
+Edit Profile,Similar Accout Suggestions
+,Gender
+,Phone Number
+,Email
+,Bio
+,Website
+,Username
+,Name
+,Edit Profile Photo
+,
+Change Password,Change Password
+,Confirm New Password
+,New Password
+,Old Password
+,Edit Profile Photo
+,
+Authorized Applications,
+,
+Comments,Submit
+,Custom Keywords
+,Hide Inappropriate Comments
+,
+Email and SMS Settings,Text(SMS) Messages
+,Research Emails
+,Reminder Emails
+,Product Emails
+,News Emails
+,
+Manage Contacts,Delete Selected
+,Contact List
+,Select All
+,
+Instagram - iOS,
+,
+Top Bar,(Paper Airplane) Direct Message
+,Camera
+,
+Camera,Mode Bar
+,Control Bar
+,>
+,(Gear) Settings
+,Enable Camera Access
+,Enable Microphone Access
+,
+Mode Bar,Hands-Free
+,Rewind
+,Stop-Motion
+,Superzoom
+,Boomerang
+,Normal
+,Live
+,
+Normal,Tap to Focus
+,(Sparkle Face) Masks
+,Swap Camera
+,Shutter Button
+,Flash Auto
+,Flash On
+,Flash Off
+,(Picture) Library
+,
+Live,Tap to Focus
+,(Sparkle Face) Masks
+,Start Live Video
+,Swap Camera
+,
+Boomerang,Tap to Focus
+,(Sparkle Face) Masks
+,Swap Camera
+,(Infinity) Shutter Button
+,Flash Auto
+,Flash On
+,Flash Off
+,(Picture) Library
+,
+Super Zoom,Tap to Focus
+,Swap Camera
+,Shutter Button
+,Flash Auto
+,Flash On
+,Flash Off
+,(Picture) Library
+,
+Stop-Motion,Tap to Focus
+,(Sparkle Face) Masks
+,Swap Camera
+,Shutter Button
+,Flash Auto
+,Flash On
+,Flash Off
+,
+,
+Rewind,Tap to Focus
+,(Sparkle Face) Masks
+,Swap Camera
+,Shutter Button
+,Flash Auto
+,Flash On
+,Flash Off
+,(Picture) Library
+,
+Hands Free,Tap to Focus
+,(Sparkle Face) Masks
+,Swap Camera
+,Shutter Button
+,Flash Auto
+,Flash On
+,Flash Off
+,(Picture) Library
+,
+Direct Message,Heart
+,(Picture) Library
+,Camera Button
+,Text Box
+,Search Bar
+,
+Stories Bar,Friends' Stories
+,Add to Your Story
+,Watch All
+,
+Posts,Link to Profile Page
+,Swipe to See More
+,Bookmark
+,(Paper Airplane) Send To
+,(Dialog Bubble) Comment
+,(Heart) Like
+,
+Send To,Cancel
+,Firend List
+,Search Bar
+,
+Profile Page,<
+,Tagged Posts
+,List View
+,Grid View
+,Follow
+,X
+,See All
+,Suggestions for You
+,Add Friend
+,Following
+,Followers
+,Posts
+,Message
+,Story
+,
+Followers,Follow
+,Links to Profile Pages
+,Search Bar
+,
+Following,Follow
+,Links to Profile Pages
+,Search Bar
+,
+...,Cancel
+,Turn on/off Post Notifications
+,Send Message
+,Share this Profile
+,Copy Profile URL
+,Hide your Story
+,Report
+,Block
+,
+Bottom Bar,Profile
+,Heart
+,+
+,Search
+,Home
+,
+Search,Videos You Might Like
+,Posts
+,Stories
+,Search bar
+,
+Videos You Might Like,Bookmark
+,(Paper Airplane) Send To
+,(Dialog Bubble) Comment
+,...
+,Heart
+,X
+,
++,Video
+,Photo
+,Library
+,Shutter Button
+,Swap Camera
+,Next
+,Cancel
+,
+Hear,You
+,Following
+,
+Your Profile,Bookmarks
+,Tagged Posts
+,List View
+,Grid View
+,(Gear) Settings
+,Edit Profile
+,Following
+,Followers
+,Posts
+,Profile Picture
+,Archive
+,Add People
+,
+Edit Profile,Gender
+,Phone
+,Email
+,Try Instagram Business Tools
+,Bio
+,Website
+,Username
+,Name
+,Change Profile Photo
+,Done
+,Cancel
+,
+Settings,Log Out
+,Add Account
+,Clear Search History
+,Open Source libraries
+,Terms
+,Privacy Policy
+,Blog
+,Ads
+,Report a Problem
+,Help Center
+,Vibrate for Notifications
+,Save Original Photos
+,Commets
+,Cellular Data Usage
+,Email an SMS Notification Settings
+,Push Notification Settings
+,Language
+,Contacts (Settings)
+,Linked Accounts
+,Private Account
+,Switch to Business Profile
+,Blocked Users
+,Two-Factor Authentication
+,Posts You've Liked
+,Change Password
+,Edit Profile
+,Story Settings
+,Photos of You
+,Contacts
+,Facebook Friends (Follow People)
+,Facebook Friends (Invite)
+,
+,
+Invite Facebook Friends,<
+,Invite
+,
+Discover People,Follow All
+,Hide
+,Follow 
+,Contacts (Settings)
+,Facebook
+,Suggested
+,<
+,
+Photos of You,Hide Photos
+,Add Manually
+,Add Automatically
+,
+Hide Photos,Check Photos
+,Hide Photos
+,Cancel
+,
+Story Settings,<
+,Share Your Story to Facebook
+,Auto Save Stories to Camera Roll
+,Allow Sharing
+,Allow Message Replies Off
+,Allow Message Replies - People You Follow
+,Allow Message Replies - Everyone
+,Hide Story From
+,
+Change Password,Verify
+,New
+,Current
+,Done
+,Cancel
+,
+Posts You've Liked,<
+,List View
+,Grid View
+,
+Two-Factor Authentication,<
+,Require Security Code
+,
+Blocked Users,Unblock
+,
+Switch to Business Profile,Cancel
+,
+Linked Accounts,<
+,OK.ru
+,VKontakte
+,Mixi
+,Ameba
+,Weibo
+,Tumblr
+,Twitter
+,Facebook
+,
+Contacts,<
+,Connect Contacts
+,
+Language,<
+,Select Language
+,
+Push Notifications Settings,<
+,Story Polls
+,Live Videos
+,Support Requests
+,View Counts
+,Product Announcements
+,First Posts and Stories
+,Reminders
+,Photos of You
+,Instagram Direct
+,Instagram Direct Requests
+,Friends on Instagram
+,Accepted Follow Requests
+,New Followers
+,Likes and Comments of Photos of You
+,Comment Likes
+,Comments
+,Likes
+,
+Email and SMS Notifications,<
+,Text(SMS) Messages
+,News Emails
+,Product Emails
+,Reminder Emails
+,Research Emails
+,
+Cellular Data Use,<
+,Use Less Data
+,
+Comments,<
+,Enable Keyword Filters
+,Hide Offensive Comments
+,Block Comments From
+,Allow Comments From

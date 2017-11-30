@@ -1,0 +1,99 @@
+1,Local
+2,Select Mesonet Site
+2,Meteogram
+1,Maps
+2,Agricultural Advisories
+3,Cattle Comfort Conditions
+3,First Hollow Stem Early Varieties Current Conditions Map
+3,First Hollow Stem Middle Varieties Current Conditions Map
+3,First Hollow Stem Late Varieties Current Conditions Map
+3,Peanut Leaf Spot Advisor
+3,Pecan Scab
+2,NWS Graphics/Advisories
+3,Day 1 Convective Storm Outlook
+3,Day 2 Convective Storm Outlook
+3,Day 3 Convective Storm Outlook
+3,Day 1 Tornado Outlook
+3,Day 1 Hail Outlook
+3,Day 1 Wind Outlook
+3,NWS Day 1 Precipitation Forecast
+3,NWS Day 2 Precipitation Forecast
+3,NWS Day 3 Precipitation Forecast
+3,Oklahoma Severe Weather Advisories
+3,Oklahoma Flood Advisories
+3,Oklahoma Fire Advisories
+3,Oklahoma High Wind Advisories
+3,Oklahoma Heat Advisories
+3,Oklahoma Winter Storm Advisories
+3,Oklahoma Frost/Freeze Advisories
+3,Oklahoma Ice Advisories
+3,Oklahoma Visibility Advisories
+2,Fire Weather
+3,Day 1 Fire Outlook
+3,Day 2 Fire Outlook
+3,Burning Index
+3,1-hr Dead Fuel Moisture
+3,10-hr Dead Fuel Moisture
+3,Keetch-Bryam Drought Index (KBDI)
+3,Oklahoma Fire Advisories
+2,Upper Air
+3,200 mb Plot
+3,500 mb Plot
+3,850 mb Plot
+3,Dodge City KS Sounding
+3,Norman OK Sounding
+3,Little Rock AR Sounding
+3,Amarillo TX Sounding
+3,Fort Worth TX Sounding
+3,Springfield MO Sounding
+2,Solar Radiation & Satellite
+3,Solar Radiation
+3,Total Daily Solar Radiation (megajoules per square meter)
+3,Total Daily Solar Radiation (kilowatt-hours per square meter)
+3,Oklahoma Visible Satellite
+3,Oklahoma Water Vapor Satellite
+3,Oklahoma Infrared Satellite
+3,Regional Visible Satellite
+3,Regional Water Vapor Satellite
+3,Regional IR Satellite
+2,Radar
+3,Oklahoma Radar
+3,National Radar
+2,Station Plots
+3,Current Conditions
+3,Current Fire Weather Conditions
+2,Pressure
+3,Sea-Level Pressure (inches of Mercury)
+3,3-Hour Sea-Level Pressure Change (inches of Mercury)
+3,Sea-Level Pressure (milibars)
+3,3-Hour Sea-Level Pressure Change (milibars)
+2,Soil Moisture/Temperature
+3,1-day Average 4-inch Plant Avaliable Water
+3,1-day Average 16-inch Plant Avaliable Water
+3,1-day Average 32-inch Plant Avaliable Water
+3,1-day Average 4-inch Percent Plant Avaliable Water
+3,1-day Average 16-inch Percent Plant Avaliable Water
+3,1-day Average 32-inch Percent Plant Avaliable Water
+3,1-day Average 2-inch Fractional Water Index
+3,1-day Average 4-inch Fractional Water Index
+3,1-day Average 10-inch Fractional Water Index
+3,1-day Average 24-inch Fractional Water Index
+3,7-day 10-inch Fractional Water Index Change
+3,2-Inch Soil Temperature
+3,4-Inch Soil Temperature
+3,4-Inch Bare Soil Temperature
+3,10-Inch Soil Temperature
+3,24-Inch Soil Temperature
+2,Dewpoint & Humidity
+2,Wind
+2,Rainfall
+2,Air Temperature
+1,Radar
+1,Advisories
+1,More
+2,Edit
+2,Settings
+3,Units
+2,About
+2,Contact
+2,Ticker

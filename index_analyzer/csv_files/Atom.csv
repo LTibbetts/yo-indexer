@@ -1,0 +1,19 @@
+Atom,File,Edit,View,Selection,Find,Packages,Window,Help
+About Atom,New Window,Undo,Always Show Bookmarks Bar,Add Selection Above, Find in Buffer,"Bracket Matcher(Go To Matching Bracket, Select Inside Brackets, Remove Brackets From Selection, Close Current Tag, Removing Matching Brackets)",Minimize,Search
+View License,New File,Redo,Always Dhow Toolbar in Full Screen,Add Selection Below,Replace in Buffer,Command Palette(Toggle),Zoom,Terms of Use
+Check For Update,Open...,Cut,Stop,Single Selection,Select Next,Dev Live Reload(Reload All Styles),Bring All To Front,Documentation
+Preferences...,Add Project Task...,Copy,Reload This Page,Split into Lines,Select All,"Emmet(Encode\Decode data:URL image, Previous Edit Point, Next Edit Point, Number(Evaluate Math Expression, Increment number by 1, Decrement number by 1, Increment number by 10, Decrement number by 10, Increment number by 0.1, Decrement number by 0.1), Expand Abbreviation, Balance [inward], Balance [outward], HTML(Go To Matching Pair, Remove Tag, Split\Join Tag Declaration, Update Tag), Merge Lines, CSS(Reflect Value), Select Next Item, Select Previous Item, Toggle Comment, Update Image Size, Wrap With Abbreviation, Interactive Expand Abbreviation",,Frequently Asked Questions
+Config...,Reopen Last Item,Copy Path,Enter Full Screen,Select to Top,Toggle Find in Buffer,"Git Diff(Move to Next Diff, Move to Previous Diff, Toggle Diff List)",,Community Discussions
+Init Script...,Save,Paste,Actual Size,Select to Bottom,Find in Project,Keybinding Resolver(Toggle),,Report Issues
+Keymap,Save As...,Select All,Zoom In,Select Line,Toggle Find in Project,Markdown Preview(Toggle Preview),,Search Issues
+Snippets...,Save All,Toggle Comments,Zoom Out,Select Word,Find Next,"Open On Github(Blame, Branch Compare, Copy URL, File, File On Master, History, Issues, Repository)",,Welcome Guide
+Stylesheet...,Close Tab,Lines,Cast...,Select to Beginning of Word,Find Previous,"Package Generator(Generate Atom Package, Generate Atom Syntax Theme)",,
+Install Shell Commands,Close Pane,Columns,Developer,Select to First Character of Line,Replace Next,"Settings View(Open, Show Keybindings, Install Packages/Themes, Update Packages/Themes, Manage Packages, Manage Themes)",,
+Services,Close WIndow,Text Folding,,Select to End of Word,Replace All,"Snippets(Expand, Next Stop, Previous Stop, Available)",,
+Hide Atom,Close All Tabs,Reflow Selection,,Select to End of Line,Clear History,Spell Check(Toggle),,
+Hide Others,,"Bookmark(View All, Toggle Bookmark, Jump to Next Bookmark, Jump to Previous Bookmark)",,Select Inside Brackets,Find Buffer,Styleguide(Show),,
+Show All,,Select Encoding,,,Find File,"Symbols(File Symbols, Project Symbols)",,
+Quit,,Go to Line,,,Find Modified File,Timecop(Show),,
+,,Select Grammar,,,,"Tree View(Focus, Toggle, Reveal Active File, Toggle Tree Side)",,
+,,Start Dictation...,,,,"Typescript(Build, Go To Declaration)",,
+,,Emojii & Symbols,,,,"Whitespace(Remove Trailing Whitespace, Save With Trailing Whitespace, Save Without Trailing Whitespace, Convert Tabs To Spaces, Convert Spaces To Tabs, Convert All Tabs To Spaces)",,

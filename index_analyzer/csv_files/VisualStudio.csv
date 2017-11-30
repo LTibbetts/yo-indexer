@@ -1,0 +1,24 @@
+File,Edit,,View,Project,,Debug,,Team,Tools,Test,Analyze,Window,Help,
+Exit,Bookmarks,,Property Pages,Edit References,,Options,,Manage Connections,Assembly Browser,,,Welcome Page,Diagnostics,Dump UI Tree
+Recent Projects and Solutions,Select All,,Properties Pages,Add NuGet Packages,,Profiler,,,Regular Expressions Toolkit,,,Close All,,Dump Accessibility Tree
+Recent Files,Delete,,Previous Task,Update NuGet Packages,,Other Debug Targets,Install App Debug Targets,,Devices,,,ZOom,,Dump Accessibility Tree (10s)
+Account Setting,Paste,,Next Task,Restore Nuget Packages,,Attach to Process,,,Device Monitor,,,Minimize,,Start monitoring UIThread hangs
+Print,Copy,,Navigate Forward,Run Code Analysis on Project,,Performance Profiler,,,Google Emulator Manager,,,Previous Document,,Profile for 5 seconds
+Page Set-Up,Cut,,Navigate Backwards,Run Code Analysis on Solution,,Graphics,,,SDK Manager,,,Next Document,Release Notes,Visual Studio for Mac
+Save All,Redo Last Global Action,,All Windows,Apply Policy,,Windows,Show Diagnostic Tools,,SDK Command Prompt,,,,,Xamarin.Mac
+Save Selected Items As,Undo Last Global Action,,Full Screen,Export Policy,,,,,Application Loader,,,,Open Log Directory,
+Save Selected ITems,Redo,,Toolbars,Solution Options,,,,,Instruments,,,,Provide a Suggestion,
+Close Solutions,Undo,,Other Windows,Project Options,,,,,Add Custom Tool,,,,Report a Problem,
+Close Solutions,Find and Replace,Quick Find,Find Results,Convert Solution Format,,,,,,,,,Xamarin University,
+Start Page,,Quick Replace,Notifications,Analyze,Whole Solution,,,,,,,,Xamarin Developer Center,
+Open,,Find in File,Toolbox,,Current Project,,,,,,,,.NET Documentation,
+New,,Replace in File,Task List,,,,,,,,,,Microsoft Developer Network,
+,,,Output,,,,,,,,,,Technical Support,
+,Go To,Go To All,Error List,,,,,,,,,,Visual Studio Documentation,
+,,Go To File,Object Browser,,,,,,,,,,API Documentation,
+,,Go To Type,Code Definition Window,,,,,,,,,,Search,
+,,Go To Member,Class View,,,,,,,,,,,
+,,Go To Symbol,Call Hierarchy,,,,,,,,,,,
+,,,Server Explorer,,,,,,,,,,,
+,,,Team Explorer,,,,,,,,,,,
+,,,Solution Explorer,,,,,,,,,,,

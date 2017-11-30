@@ -1,0 +1,36 @@
+File,Edit,View,Navigate,Source,Refactor,Run,Debug,Profile,Team,Tools,Window,Help,View Submenus,Navigate Submenus,File submenus,Help Submenus,Window Submenus,Tools Submenus
+Exit,Undo,Editors,Go to File?,Format,Inspect and Transform,Run Project,Check for Deadlock,Insert Profiling Point?,Shelve Changes,Add to Palette?,Projects,Help Contents,Customize,File Hierarchy,To Zip,Empty,New Document Group?,HTML/JSP Code Clips
+Print to HTML,Redo,Split,Go to Type?,Remove Trailing Spaces,Safely Delete,Test Project,Evaluate Expression,Reset Collected Results,Git,Internationalization,Files,Online Docs and Support,Reset Toolbars,Hierarchy,From Zip,,Collapse Document Tab Group,Swing/AWT Components
+Print,Cut,Code Folds,Go to Symbol?,Shift Left,Copy,Build Project,New Watch,Take Screenshot of Selected Results,Mercurial,Java Platforms,Favorites,Keyboard Shortcuts Card,Small Toolbar Icons,File Members,Resynchronize Eclipse Projects,,New Document Tab Group,Internationalized Test Wizard
+Page Setup,Copy,IDE Logs,Go to Spring Bean?,Shift Right,Move,Clean and Build Project,New Breakpoint,Run GC,Subversion,NetBeans Platforms,Services,Report Issue?,Performance,Members,Eclipse Project,,Split Document,Internationalized Wizard
+Save All,Paste,Toolbars,Go to Test/Tested Class,Move Up,Rename,Set Project Configuration,Toggle Line Break,Take Heap Dump?,History,Ant Variables,Navigator,Javadoc Index Search,Debug,,,,Clone Document,Insert Internationalized Strong?
+Save As,Paste Formatted,Show Editor Toolbar,Go to Previous Window,Move Down,,Set Main Project,Stack,Take Thread Dump,Find Tasks?,Libraries,Action Items,Javadoc References,Run,,,,Dock Group,Internationalize?
+Save,Paste from History,Show Line Numbers,Go to Source,Move Code Element Up,,Generate Javadoc,Set Current Thread,Finish Profiler Session,Report Task?,Servers,Tasks,Check for Updates,Undo/Redo,,,,Dock,
+Export Project,Paste as Lines,Show Non-printable Characters,Go to Declaration,Move Code Element Down,,Run File,Take GUI Snapshot,Attach to External Process,Create Build Job?,Cloud Providers,Output,Start Page,Clipboard,,,,Minimize Group,
+Import Project,Delete,Show Breadcrumbs,Go to Super Implementation,Duplicate Up,,Test File,Apply Code Changes,Attach to Project,,Templates,Editor,About,File,,,,Minimize,
+Project Properties,Select All,Show Indent Guide Lines,Inspect,Duplicate Down,,Compile File,Run to Cursor,Profile Test File,,DTDs and XML Schemas,Debugging,,,,,,Float Group,
+Project Groups,Select Identifier,Show Diff Sidebar,Last Edit Location,Toggle Comment,,Check File,Step Out,Profile File,,Palette,Profiling,,,,,,Float,
+Open Recent File,Find Selection,Show Versioning Labels,Back,Complete Code?,,Validate File,Step into Next Method,Profile Project,,Plugins,Web,,,,,,Maximize,
+Open File,Find Next,Syncrhonize Editor with Views,Forward,Insert Code?,,Repeat Build/Run,Step Into,,,Options,IDE Tools,,,,,,Processes,
+Close All Projects,Find Previous,Show Only Editor,Go to Line?,Remove Surrounding Code?,,Stop Build/Run,Step Over Expression,,,,Configure Window,,,,,,Terminal,
+Close Other Projects,Find,Full Screen,Toggle Bookmark,Fix Code?,,,Step Over Expression,,,,Reset Windows,,,,,,Exception Reporter,
+Close Project,Replace,,Bookmark History Popup Next,Fix Imports?,,,Continue,,,,Close Window,,,,,,Notifications,
+Open Recent Project,Find Usages,,Bookmark History Popup Previous,Organize Imports,,,Pause,,,,Close All Documents,,,,,,Javadoc Documentation,
+Open Project,Find in Projects,,Next Error,Organize Members,,,Finish Debugger Session,,,,Close Other Documents,,,,,,Bookmarks,
+New File,Replace in Projects,,Previous Error,Show Method Parameters,,,Attach Debugger,,,,Document Groups,,,,,,Test Results,
+New Project,Start Macro Recording,,Select in Projects,Show Documentation,,,Debug Test File,,,,Documents?,,,,,,Properties,
+,Stop Macro Recording,,Select in Files,Make Controller,,,Debug File,,,,,,,,,,Palette,
+,,,Select in Favorites,Insert Next Matching Word,,,Debug Project,,,,,,,,,,CSS Styles,
+,,,,Insert Previous Matching Word,,,,,,,,,,,,,Web Browser,
+,,,,Inspect?,,,,,,,,,,,,,Profiling Points,
+,,,,Scan for External Changes,,,,,,,,,,,,,Snapshots,
+,,,,,,,,,,,,,,,,,Analyze Stack,
+,,,,,,,,,,,,,,,,,Debugging,
+,,,,,,,,,,,,,,,,,Sources,
+,,,,,,,,,,,,,,,,,Threads,
+,,,,,,,,,,,,,,,,,Sessions,
+,,,,,,,,,,,,,,,,,Break Points,
+,,,,,,,,,,,,,,,,,Loaded Classes,
+,,,,,,,,,,,,,,,,,Call Stack,
+,,,,,,,,,,,,,,,,,Watches,
+,,,,,,,,,,,,,,,,,Variables,

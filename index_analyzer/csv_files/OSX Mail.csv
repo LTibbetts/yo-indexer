@@ -1,0 +1,142 @@
+OSX Mail,
+,
+Compose,
+,Format Pane
+,Send
+,Attach
+,Stationary Pane
+,Dictionary
+Mailboxes,
+,Inbox
+,Sent
+,Drafts
+Mail,
+,About Mail
+,Preferences?
+,Accounts?
+,Add Account?
+,Services
+,Hide Mail
+,Hide Others
+,Show All
+,Quit Mail
+File,
+,New Message
+ ,New Viewer Window
+,Open Messages
+,Close
+,Save
+,Save As?
+,Save as Stationery?
+,Attach Files?
+,Save Attachments?
+,Quick Look Attachments?
+,Import Mailboxes?
+,Export as PDF?
+,Print?
+Edit,
+,Undo
+,Redo
+,Cut
+,Copy
+,Paste
+,Delete
+,Select All
+,Complete
+,Paste as Quotation
+,Paste and Match Style
+,Append Selected Messages
+,Add Link?
+,Attachments
+,Find
+,Spelling and Grammar
+,Substitutions
+,Transformations
+,Speech
+,Start Dictation?
+,Emoji & Symbols
+View,
+,Show Tab Bar
+,Show All Tabs
+,Message Attributes
+,Sort By
+,Organize by Conversation
+,Expand All Conversations
+,Collapse All Conversations
+,Cc Address Field
+,Bcc Address Field
+,Replay-To Address Field
+,Message
+,Hide Related Messages
+ ,Show Mailbox List
+,Show Deleted Messages
+,Enable Message Filter
+,Hide Toolbar
+,Customize Toolbar?
+,Hide Favorites Bar
+,Enter Full Screen
+Mailbox,
+,Take All Accounts Online
+,Take All Accounts Offline
+,Get New Mail
+,Synchronize Account
+,Mark All Messages as Read
+,Erase Deleted Items
+,Erase Junk Mail
+,New Mailbox?
+,New Smart Mailbox?
+,Edit Smart Mailbox?
+,Duplicate Smart Mailbox
+,New Smart Mailbox Folder?
+,Rename Mailbox?
+,Delete Mailbox?
+,Export Mailbox?
+,Go to Favorite Mailbox
+,Move to Favorite Mailbox
+,Rebuild
+Message,
+,Send
+,Reply
+,Reply All
+,Forward
+,Forward as Attachment
+,Redirect
+,Mark as Unread
+,Move to Junk
+,Flag
+,Set Priority
+,Archive
+,Move to Predicted Mailbox
+,Move to
+,Copy to
+,Move Again
+,Apply Rules
+,Add Sender to Contacts
+,Remove Attachments
+Format,
+,Show Fonts
+,Show Colors
+,Lists
+,Style
+,Alignment
+,Indentation
+,Quote Level
+,Make Plain Text
+Window,
+,Minimize
+,Zoom
+,Show Previous Tab
+,Show Next Tab
+,Move tab to New Window
+,Merge All Windows
+,Message Viewer
+,Photo Browser
+,Previous Recipients
+,Activity
+,Connection Doctor
+,Bring All to Front
+,[Windows]
+Help,
+,Search
+,Mail Help
+,What?s New in Mail?
