@@ -8,6 +8,8 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
+For UNIX:
+
 What things you need to install the software and how to install them
 
 #### pip
@@ -22,7 +24,13 @@ sudo apt-get install python3-pip
 sudo pip install virtualenv
 ```
 
+For Windows:
+
+Install the latest version of Python3
+
 ### Installing
+
+For UNIX:
 
 A step by step series of examples that tell you have to get a development env running
 
@@ -36,6 +44,19 @@ Say what the step will be
 virtualenv env &&
 source env/bin/activate &&
 pip install -e .
+```
+
+4. Run with `python yo_indexer`
+
+For Windows:
+
+1. Clone the repository
+2. `cd yo-indexer`
+3. Run the following:
+
+``` bash
+python -m venv env
+.\env\Scripts\activate.bat
 ```
 
 4. Run with `python yo_indexer`
