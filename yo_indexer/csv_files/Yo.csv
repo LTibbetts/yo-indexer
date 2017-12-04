@@ -1,4 +1,15 @@
-﻿GUI features,,,Messaging features,,,File transfer features,,,,Security features
-Simple design,,,"Send message ""yo""",,,Can send micro messages w pictures,,,,verification code sent to device
-Touchscreen supported,,,,,,share location,,,,
-Able to create profile,,,,,,,,,,
+Yo- application,,,,
+,,,,
+Add friends to start Yo'ing,,,,
+,Add a friend,Select contacts,Add friend,
+,,,,
+,Create Group,Name Yo Group,Add Members,Create group
+,,,,
+Send a yo,,,,
+,Select contact/group to send yo to,,,
+,,,,
+Yo location,,,,
+,See location of selected contact,,,
+,,,,
+Yo photo,,,,
+,Send photo to selected contact/group,,,
